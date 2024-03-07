@@ -1,0 +1,44 @@
+[
+  {
+    "hostname": "toto",
+    "ip": "172.20.0.1",
+    "network": "172.20.0.0",
+    "subnetwork": "172.20.20.0"
+  },
+  {
+    "hostname": "titi",
+    "ip": "172.20.0.2",
+    "network": "172.20.0.0",
+    "subnetwork": "172.20.20.0"
+  },
+  {
+    "hostname": "tutu",
+    "ip": "172.20.0.3",
+    "network": "172.20.0.0",
+    "subnetwork": "172.20.21.0"
+  },
+  {
+    "hostname": "tata",
+    "ip": "172.20.0.4",
+    "network": "172.20.0.0",
+    "subnetwork": "172.20.21.0"
+  },
+  {
+    "hostname": "tete",
+    "ip": "172.20.0.5",
+    "network": "172.21.0.0",
+    "subnetwork": "172.21.20.0"
+  },
+  {
+    "hostname": "tite",
+    "ip": "172.20.0.6",
+    "network": "172.21.0.0",
+    "subnetwork": "172.21.20.0"
+  },
+  {
+    "hostname": "totu",
+    "ip": "172.20.0.7",
+    "network": "172.21.0.0",
+    "subnetwork": "172.21.20.0"
+  }
+]
