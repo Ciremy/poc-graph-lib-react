@@ -7,8 +7,8 @@ function Navbar() {
       <Link href="/visx">
         Visx
       </Link>
-      <Link href="/example2">
-        Example 2
+      <Link href="/nivo">
+        Nivo
       </Link>
       <Link href="/example3">
         Example 3
