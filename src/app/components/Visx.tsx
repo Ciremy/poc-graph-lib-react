@@ -21,15 +21,18 @@ interface CustomLink {
 }
 
 const nodes: CustomNode[] = [
-  { x: 0, y: 0 },
-  { x: 200, y: 250 },
-  { x: 300, y: 40, color: "#26deb0" },
+  { x: 0, y: 0, color:"#346C80" },
+  { x: 400, y: 450, color:"#346C80" },
+  { x: 500, y: 300, color: "#BCE8F0" },
+  { x: 700, y: 500, color: "#4290A4" },
+
 ];
 
 const links: CustomLink[] = [
   { source: nodes[0], target: nodes[1] },
   { source: nodes[1], target: nodes[2] },
   { source: nodes[2], target: nodes[0], dashed: true },
+  { source: nodes[3], target: nodes[1] },
 ];
 
 const graph = {
@@ -37,7 +40,7 @@ const graph = {
   links,
 };
 
-export const background = "#272b4d";
+export const background = "#1C3144";
 
 export default function Example({ width, height }: NetworkProps) {
   return width < 10 ? null : (
