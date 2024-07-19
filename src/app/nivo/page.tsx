@@ -1,6 +1,6 @@
 'use client'
 import Navbar from "../components/Navbar";
-import { Nivo } from "../components/Nivo";
+import { Nivo } from "../components/Nivo/Nivo";
 
 export default function Home() {
   return (
