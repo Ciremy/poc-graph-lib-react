@@ -10,8 +10,8 @@ function Navbar() {
       <Link href="/nivo">
         Nivo
       </Link>
-      <Link href="/example3">
-        Example 3
+      <Link href="/react-flow">
+        React Flow
       </Link>
     </div>
   )
