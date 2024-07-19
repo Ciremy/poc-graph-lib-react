@@ -1,5 +1,5 @@
 import { ResponsiveNetwork } from '@nivo/network'
-import data from '../../const/nivo.json'
+import data from '../../../const/nivo.json'
 
 export const Nivo = (props:{widthClass:string, heightClass:string}) => (
     <div className={`${props.widthClass} ${props.heightClass} bg-primary`}>

@@ -1,5 +1,5 @@
 import Navbar from "../components/Navbar";
-import Visx from "../components/Visx";
+import Visx from "../components/Visx/Visx";
 
 export default function Home() {
   return (

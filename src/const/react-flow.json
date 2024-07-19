@@ -1,0 +1,106 @@
+[
+    {
+        "id": "999",
+        "type": "custom",
+        "data": {
+            "name": "Audit 3",
+            "role": "Audit",
+            "emoji": "📜"
+        },
+        "position": {
+            "x": 0,
+            "y": -300
+        }
+    },
+    {
+        "id": "0",
+        "type": "custom",
+        "data": {
+            "name": "10.100.300.0/24",
+            "role": "Network",
+            "emoji": "🛜"
+        },
+        "position": {
+            "x": -200,
+            "y": -150
+        }
+    },
+    {
+        "id": "1",
+        "type": "custom",
+        "data": {
+            "name": "10.100.200.0/24",
+            "role": "Network",
+            "emoji": "🛜"
+        },
+        "position": {
+            "x": 200,
+            "y": -150
+        }
+    },
+    {
+        "id": "2",
+        "type": "custom",
+        "data": {
+            "name": "10.100.200.10",
+            "role": "Host",
+            "emoji": "🖥️"
+        },
+        "position": {
+            "x": -200,
+            "y": 200
+        }
+    },
+    {
+        "id": "3",
+        "type": "custom",
+        "data": {
+            "name": "10.100.200.11",
+            "role": "Host",
+            "emoji": "🖥️"
+        },
+        "position": {
+            "x": 200,
+            "y": 200
+        }
+    },
+    {
+        "id": "4",
+        "type": "custom",
+        "data": {
+            "name": "10.100.200.12",
+            "role": "Host",
+            "emoji": "🖥️"
+        },
+        "position": {
+            "x": 600,
+            "y": 200
+        }
+    },
+    {
+        "id": "5",
+        "type": "custom",
+        "data": {
+            "name": "Vul1",
+            "role": "Vulnerability",
+            "emoji": "🚨"
+        },
+        "position": {
+            "x": -200,
+            "y": 600
+        }
+    },
+    {
+        "id": "6",
+        "type": "custom",
+        "data": {
+            "name": "Vul2",
+            "role": "Vulnerability",
+            "emoji": "🚨"
+        },
+        "position": {
+            "x": 200,
+            "y": 600
+        }
+    }
+]
