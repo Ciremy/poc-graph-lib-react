@@ -30,8 +30,8 @@ export default function AppBasic() {
             onNodesChange={onNodesChange}
             edges={edges}
             edgeTypes={edgeTypes}
-            onEdgesChange={onEdgesChange}
-            onConnect={onConnect}
+            // onEdgesChange={onEdgesChange}
+            // onConnect={onConnect}
             fitView
         >
             <Background />
