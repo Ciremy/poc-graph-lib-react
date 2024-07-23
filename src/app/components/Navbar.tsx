@@ -13,6 +13,9 @@ function Navbar() {
       <Link href="/react-flow">
         React Flow
       </Link>
+      <Link href="/vis-network">
+        Vis Network
+      </Link>
     </div>
   )
 }
