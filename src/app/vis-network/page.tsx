@@ -9,7 +9,7 @@ export default function Home() {
 
         <div className="w-full h-4/5 mb-12">
             <h1 className="text-center font-bold text-2xl">Vis Network</h1>   
-            <div>
+            <div className="w-full h-full">
                 <VisNetwork/>
             </div>
         </div>
